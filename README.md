@@ -77,7 +77,8 @@ This project is designed for educational purposes — to demonstrate:
 ---
 
 ## 🖼️ Screenshot
-*`![App Screenshot](screenshot.png)`)*
+
+![App Screenshot](screenshot.png)
 
 ---
 
